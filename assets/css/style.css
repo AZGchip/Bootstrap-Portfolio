@@ -19,4 +19,8 @@ body{
 }
 .container{
     background-color: white;
+    padding-bottom: 100%;
+}
+.message{
+    width: 500px;
 }
